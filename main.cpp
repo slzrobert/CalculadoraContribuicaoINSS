@@ -77,6 +77,7 @@ main(int argc, char** argv) {
 		}
 		
 		printf("FAIXA 4 - CONTRIBUICAO DE R$ %.2f \n", resultado);
-	
 	}
+	
+	system("pause");
 }
